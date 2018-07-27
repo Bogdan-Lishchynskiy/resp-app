@@ -213,10 +213,13 @@ li {
     display: none; }
 
   .bg-image {
-    width: 400px; }
+    max-width: 95%; }
+
+  .main-content .wrap-center-right .center-section {
+    align-self: center; }
 
   .main-content .wrap-center-right .right-section {
-    width: 95%;
+    width: 100%;
     align-items: center; }
 
   .footer {
